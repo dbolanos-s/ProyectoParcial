@@ -105,5 +105,5 @@ CCPG1049-2026-P1/
 
 ---
 ## Autores
-Domenica Bolaños
-Samuel Echeverría
+-Domenica Bolaños
+-Samuel Echeverría
